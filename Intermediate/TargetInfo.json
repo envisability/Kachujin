@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Kachujin",
+			"Path": "C:\\GAM.Workspace.2020\\GAM305\\final_project_sideslider\\Kachujin\\Source\\Kachujin.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "KachujinEditor",
+			"Path": "C:\\GAM.Workspace.2020\\GAM305\\final_project_sideslider\\Kachujin\\Source\\KachujinEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

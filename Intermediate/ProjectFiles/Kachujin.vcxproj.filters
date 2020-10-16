@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Kachujin.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8872181D-175C-44DB-BBB6-1430C58F0D35}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Kachujin.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\KachujinEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3993BFFB-CDA0-4520-9347-8184C0C8AD87}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Kachujin">
+      <UniqueIdentifier>{075AA596-FAEE-464A-AE2A-090106287FC7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Kachujin\Kachujin.Build.cs">
+      <Filter>Source\Kachujin</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Kachujin\Kachujin.cpp">
+      <Filter>Source\Kachujin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Kachujin\Kachujin.h">
+      <Filter>Source\Kachujin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Kachujin\KachujinCharacter.cpp">
+      <Filter>Source\Kachujin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Kachujin\KachujinCharacter.h">
+      <Filter>Source\Kachujin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Kachujin\KachujinGameMode.cpp">
+      <Filter>Source\Kachujin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Kachujin\KachujinGameMode.h">
+      <Filter>Source\Kachujin</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\Kachujin\Public">
+      <UniqueIdentifier>{d3c57ce4-4750-4fc1-9499-a725c548989c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Kachujin\Private">
+      <UniqueIdentifier>{5a391ccb-60b6-4b42-bfc2-fe8c05da8439}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Kachujin\Public\Item.h">
+      <Filter>Source\Kachujin\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Kachujin\Private\Item.cpp">
+      <Filter>Source\Kachujin\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

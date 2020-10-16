@@ -1,0 +1,2 @@
+C:\GAM.Workspace.2020\GAM305\final_project_sideslider\Kachujin\Intermediate\Build\Win64\UE4Editor\Development\Kachujin\Definitions.Kachujin.h
+C:\GAM.Workspace.2020\GAM305\final_project_sideslider\Kachujin\Source\Kachujin\Kachujin.h
